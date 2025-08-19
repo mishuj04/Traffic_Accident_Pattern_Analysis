@@ -36,7 +36,7 @@ The dataset includes accident-level details such as:
 - `Speed Limit (km/h)` → Posted speed limit  
 - `Driver Age` → Age of driver  
 - `Driver Gender` → Male/Female/Other  
-- `Driver License Status` → Valid, Suspended, None  
+- `Driver License Status` → Valid, Expired, None  
 - `Alcohol Involvement` → Yes/No  
 - `Accident Location Details` → Specific accident site (junction, crossing, etc.)  
 
